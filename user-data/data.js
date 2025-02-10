@@ -1,5 +1,5 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
+  "Hello, I'm Phaluguna Rao!",
   "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
   "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
@@ -163,6 +163,6 @@ export const footer = [
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["Made with &hearts; by PhalugunaRao"],
   },
 ];
